@@ -35,12 +35,8 @@ I naively implemented these technques without using NLP techniques such as imput
 
 ![image info](./pics/Step3.png)
 
-## Step 4. Loop through shuffled batches
 
-![image info](./pics/Step4.png)
-
-
-## Output: Distance Matrix of Dimension (Batch Size) x (Batch Size)
+Example for Batch Size of 12:
 
 ```
 dist_mat = generate_batch_iterator(dictionary, batch_size=12)
@@ -50,6 +46,11 @@ next(dist_mat)
 ```
 
 ![image info](./pics/output.png)
+
+
+## Step 4. Loop through shuffled batches
+
+![image info](./pics/Step4.png)
 
 
 ## Future Directions
