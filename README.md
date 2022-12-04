@@ -21,16 +21,21 @@ Link: https://www.kaggle.com/shivamb/netflix-shows
 =======
 ## Overview 
 
-1. Convert CSV to Dictionary
+## Step 1. Convert CSV to Dictionary
 
-2. Load dictionary to Graph to create distance matrix for actors and directors
+![image info](./pics/Step1.png)
+
+## Step 2. Load dictionary to Graph to create distance matrix for actors and directors
+
+![image info](./pics/Graph.gif)
+![image info](./pics/Example_output.gif)
 
 3. Iterate through batches of the data, eventually for training a neural network
 
 
 ![image info](./pics/Step1.png)
 
-![image info](./pics/Graph.gif)
+
 
 ## Future Directions
 
