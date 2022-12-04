@@ -39,6 +39,19 @@ I naively implemented these technques without using NLP techniques such as imput
 
 ![image info](./pics/Step4.png)
 
+
+## Output: Distance Matrix of Dimension (Batch Size) x (Batch Size)
+
+```
+dist_mat = generate_batch_iterator(dictionary, batch_size=12)
+
+next(dist_mat)
+
+```
+
+![image info](./pics/output.png)
+
+
 ## Future Directions
 
 - [ ] Improve the efficiency of the batching (using DataLoader)
