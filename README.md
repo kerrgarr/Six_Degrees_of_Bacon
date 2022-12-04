@@ -1,6 +1,7 @@
 # Graph approach to Solving the “Six Degrees of Kevin Bacon” problem!
 
 ![image info](./pics/KevinBacon6degrees.png)
+
 (Image Credit: https://www.iceinstitute.org/blog/2019/4/1/six-degrees-of-kevin-bacon-education-edition)
 
 ## Objective
@@ -26,6 +27,10 @@ Link: https://www.kaggle.com/shivamb/netflix-shows
 
 3. Iterate through batches of the data, eventually for training a neural network
 
+
+![image info](./pics/Step1.png)
+
+![image info](./pics/Graph.gif)
 
 ## Future Directions
 
