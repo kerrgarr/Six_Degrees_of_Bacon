@@ -17,9 +17,11 @@ Dataset: Netflix Movies and TV Shows
 Link: https://www.kaggle.com/shivamb/netflix-shows
 
 
-## Background
-=======
-## Overview 
+## Goal
+
+I naively implemented these technques without using NLP techniques such as imputation, feature engineering, and text pre-processing. The goal is to "update" this work using the NLP techniques that I've since learned. :)
+
+## Overview of my First Approach
 
 ## Step 1. Convert CSV to Dictionary
 
@@ -33,7 +35,7 @@ Link: https://www.kaggle.com/shivamb/netflix-shows
 
 ![image info](./pics/Step3.png)
 
-## Step 4. Loop through shuffles batches
+## Step 4. Loop through shuffled batches
 
 ![image info](./pics/Step4.png)
 
