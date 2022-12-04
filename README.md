@@ -17,9 +17,9 @@ Dataset: Netflix Movies and TV Shows
 Link: https://www.kaggle.com/shivamb/netflix-shows
 
 
-## Goal
+## Background on this Project
 
-I naively implemented these technques without using NLP techniques such as imputation, feature engineering, and text pre-processing. The goal is to "update" this work using the NLP techniques that I've since learned. :)
+I naively implemented these technques without using NLP techniques such as imputation, feature engineering, and text pre-processing. The goal is to "update" this work using the NLP techniques that I've since learned. 
 
 ## Overview of my First Approach
 
