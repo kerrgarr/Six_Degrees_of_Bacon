@@ -6,9 +6,7 @@
 
 ## Objective
 
-Create a data iterator meant to make data available to a hypothetical neural network training process.  
-
-This hypothetical neural network would learn a person-vector embedding based on how many links are needed to get from that person to other person, as in the game, “Six Degress of Kevin Bacon.”
+Create a data generator based on determining the degree of association/relation people have between each other within a given industry. 
 
 
 ## Dataset
