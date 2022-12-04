@@ -27,18 +27,20 @@ Link: https://www.kaggle.com/shivamb/netflix-shows
 
 ## Step 2. Load dictionary to Graph to create distance matrix for actors and directors
 
-![image info](./pics/Graph.gif)
-![image info](./pics/Example_output.gif)
+![image info](./pics/Step2.png)
 
-3. Iterate through batches of the data, eventually for training a neural network
+## Step 3. Data Generator
 
+![image info](./pics/Step3.png)
 
-![image info](./pics/Step1.png)
+## Step 4. Loop through shuffles batches
 
-
+![image info](./pics/Step4.png)
 
 ## Future Directions
 
+- [ ] Improve the efficiency of the batching (using DataLoader)
+- [ ] Implement NLP techniques (lower case, spelling check, stemming, lemmatization, vector embedding, etc.)
 
 
 
