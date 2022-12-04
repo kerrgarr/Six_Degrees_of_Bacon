@@ -36,10 +36,10 @@ I naively implemented these technques without using NLP techniques such as imput
 ![image info](./pics/Step3.png)
 
 
-Example for Batch Size of 12:
+Example for Distance Matrix Size of 12:
 
 ```
-dist_mat = generate_batch_iterator(dictionary, batch_size=12)
+dist_mat = generate_batch_iterator(dictionary, size=12)
 
 next(dist_mat)
 
