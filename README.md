@@ -1,9 +1,6 @@
 # Graph approach to Solving the “Six Degrees of Kevin Bacon” problem!
 
-![image info](./pics/KevinBacon6Degrees.png)
-(Image Credit: https://www.iceinstitute.org/blog/2019/4/1/six-degrees-of-kevin-bacon-education-edition)
-
-![image info](./pics/KevinBacon6Degrees.png)
+![image info](./pics/KevinBacon6degrees.png)
 (Image Credit: https://www.iceinstitute.org/blog/2019/4/1/six-degrees-of-kevin-bacon-education-edition)
 
 ## Objective
@@ -18,7 +15,6 @@ This hypothetical neural network would learn a person-vector embedding based on 
 Dataset: Netflix Movies and TV Shows
 Link: https://www.kaggle.com/shivamb/netflix-shows
 
-<<<<<<< HEAD
 
 ## Background
 =======
@@ -32,7 +28,7 @@ Link: https://www.kaggle.com/shivamb/netflix-shows
 
 
 ## Future Directions
->>>>>>> b86d3a7aaf6f3efe6bf1603ef9bca20412418697
+
 
 
 
