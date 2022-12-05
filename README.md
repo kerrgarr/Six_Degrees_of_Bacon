@@ -50,6 +50,7 @@ next(dist_mat)
 
 - [ ] Improve the efficiency of the batching (using DataLoader)
 - [ ] Implement NLP techniques (lower case, spelling check, stemming, lemmatization, vector embedding, etc.)
+- [ ] Train a neural network that takes two people and returns their degree of relation
 
 
 
